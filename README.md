@@ -19,11 +19,10 @@ This application is designed to assist with record-keeping and reporting only. I
 ---
 
 ## Screenshots
-Add screenshots to a folder named `Screenshots/` and update the paths below.
 
 | Form | Preview | PDF Export | Settings |
 |---|---|---|---|
-| `Screenshots/form.png` | `Screenshots/preview.png` | `Screenshots/pdf.png` | `Screenshots/settings.png` |
+| ![](Screenshots/form.png) | ![](Screenshots/preview.png) | ![](Screenshots/pdf.png) | ![](Screenshots/settings.png) |
 
 
 ---
