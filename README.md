@@ -2,7 +2,8 @@
 
 A SwiftUI iOS app for creating, previewing, and exporting electrical test reports as a **documentation aid** for licensed electricians and electrical contractors working within Australian/New Zealand regulatory frameworks.
 
-This application is designed to assist with record-keeping and reporting only. It does not certify compliance or replace official standards, legislation, or professional judgement.
+This application assists with **record-keeping and reporting only**.  
+It does **not** certify compliance, guarantee safety, or replace official standards, legislation, or professional judgement.
 
 ---
 
@@ -13,7 +14,7 @@ This application is designed to assist with record-keeping and reporting only. I
 - Live preview of the test results table (as it will appear in the PDF)
 - Edit and delete test results before export
 - Settings for company and tester information
-- Data backup/restore (JSON export/import)
+- Data backup and restore (JSON export/import)
 - In-app help and FAQ
 
 ---
@@ -24,13 +25,12 @@ This application is designed to assist with record-keeping and reporting only. I
 |---|---|---|---|
 | ![](Screenshots/form.png) | ![](Screenshots/preview.png) | ![](Screenshots/pdf.png) | ![](Screenshots/settings.png) |
 
-
 ---
 
 ## About
 The KTM Solutions Electrical Test Report App is a **productivity and documentation tool** intended to streamline the creation and storage of electrical test reports.
 
-It assists licensed electrical workers in producing consistent documentation, but **all testing decisions, interpretations, and compliance responsibilities remain with the user**.
+It assists licensed electrical workers in producing consistent documentation; however, **all testing decisions, interpretations, and compliance responsibilities remain solely with the user**.
 
 ### Key Benefits
 - **Time-saving:** Generate structured PDF test reports quickly
@@ -43,17 +43,17 @@ It assists licensed electrical workers in producing consistent documentation, bu
 
 ## Standards References (Important)
 
-The app supports **optional in-app viewing** of standards PDFs for reference purposes only, such as:
+The app supports **optional in-app viewing** of standards PDFs for **reference purposes only**, including (but not limited to):
 - AS/NZS 3000 (Wiring Rules)
 - AS/NZS 3017 (Verification / Testing)
 - AS/NZS 3008 (Selection of Cables)
 
-**Standards documents are not supplied with this application.**
+**Standards documents are NOT supplied with this application.**
 
-Users must obtain their own **legally licensed copies** of all standards from the official publisher (e.g. **Standards Australia / SAI Global** or authorised distributors).
+Users must obtain their own **legally licensed copies** of all standards from the official publisher (e.g. **Standards Australia / SAI Global**) or authorised distributors.
 
 KTM Solutions:
-- Does **not** publish, own, or maintain any standards
+- Does **not** publish, own, or distribute standards
 - Does **not** verify the accuracy, currency, or applicability of standards content
 - Does **not** interpret or replace official standards documentation
 
@@ -93,17 +93,8 @@ KTM Solutions:
 
 ## Support
 For KTM Solutions support:
-- Email: `service@ktmsolutions.com.au`
-- Phone: `(07) 3813 0067`
-
----
-
-## Roadmap (Optional)
-Planned improvements may include:
-- Customisable PDF layouts
-- Additional test templates
-- Multiple company profiles
-- Optional cloud sync
+- Email: service@ktmsolutions.com.au
+- Phone: (07) 3813 0067
 
 ---
 
@@ -125,12 +116,12 @@ Please do not commit:
 ---
 
 ## License
-**Proprietary / Internal Use**
 
-Copyright © KTM Solutions. All rights reserved.
+This project is licensed under the **MIT License**.
 
-This software is provided for internal evaluation and operational use only.  
-No rights are granted to copy, modify, distribute, sublicense, or sell this software without explicit written permission from KTM Solutions.
+Copyright © 2025 KTM Solutions.
+
+See the `LICENSE` file for full license text.
 
 ---
 
@@ -143,7 +134,7 @@ This application is a **documentation and record-keeping tool only**.
 - Australian/New Zealand Standards are maintained by **Standards Australia / SAI Global** and may change over time. Users are responsible for ensuring they reference the **current legally applicable versions**.
 
 Nothing in this application constitutes:
-- Legal advice
-- Regulatory approval
-- Certification of compliance
-- Professional or engineering advice
+- Legal advice  
+- Regulatory approval  
+- Certification of compliance  
+- Professional, engineering, or safety advice
