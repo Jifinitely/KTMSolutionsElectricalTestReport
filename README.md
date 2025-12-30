@@ -25,7 +25,6 @@ Add screenshots to a folder named `Screenshots/` and update the paths below.
 |---|---|---|---|
 | `Screenshots/form.png` | `Screenshots/preview.png` | `Screenshots/pdf.png` | `Screenshots/settings.png` |
 
-> Tip: Capture screenshots in both light and dark mode if desired.
 
 ---
 
